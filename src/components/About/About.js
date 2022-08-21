@@ -1,5 +1,5 @@
-import React from "react";
-import fredImg from "../../assets/images/fredImg.JPG"
+import React from 'react';
+import fredImg from '../../assets/images/FredImg.JPG';
 
 function About() {
     return (
